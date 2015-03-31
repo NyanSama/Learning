@@ -1,2 +1,2 @@
 #Python
-Self Python LEARNING
+For self Python LEARNING
