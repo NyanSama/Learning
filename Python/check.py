@@ -9,14 +9,21 @@ try:
 except ValueError:
     print("Not a int Number!\n")
 else:
-    print(num)
+    #print(num)
+    pass
   #float
 try:
     num_float = float(x)
 except ValueError:
     print("Not a Number!\n")
 else:
-    print(num_float)
+    #print(num_float)
+    pass
+
+if not isinstance(x,(int,float)):
+    raise TypeError('Not Number')
+
+
 
 #check for letters
 
