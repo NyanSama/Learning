@@ -14,3 +14,5 @@ def move(n,a,b,c):
         move(n-1,b,a,c)  #再移n-1阶到c
         
 move(5,'A','B','C')
+
+
