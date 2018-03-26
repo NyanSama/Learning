@@ -62,5 +62,6 @@ target/
 bin/
 src/github.com/
 src/sourcegraph.com/
+src/golang.org/
 *.a
 *.exe
