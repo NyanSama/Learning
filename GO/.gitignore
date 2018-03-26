@@ -63,3 +63,4 @@ bin/
 src/github.com/
 src/sourcegraph.com/
 *.a
+*.exe
