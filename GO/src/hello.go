@@ -1,10 +1,9 @@
 package main
 
 import (
-	"os"
 	"fmt"
 )
 
 func main(){
-	fmt.
+	fmt.println("Hello go!")
 }
